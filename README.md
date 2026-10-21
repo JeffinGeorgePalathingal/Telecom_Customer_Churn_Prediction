@@ -68,3 +68,19 @@ These findings support targeted contract-renewal engagement and assessment of su
 - **Risk Assessment:** Evaluate the model on unseen customer data to assess how well its predictions generalise beyond the development dataset.
 - **Retention Effectiveness:** Conduct A/B testing to determine whether the proposed retention strategies actually reduce churn.
 - **Model Monitoring:** Monitor model performance and retrain periodically as customer behaviour and churn patterns change.
+
+## Technologies & Repository Contents
+
+### Technologies
+- **Language:** Python
+- **Data Analysis:** Pandas, NumPy
+- **Data Visualisation:** Matplotlib, Seaborn
+- **Machine Learning:** Scikit-learn, XGBoost
+- **Model Interpretation:** SHAP
+
+### Repository Contents
+
+- `telecom_churn (1).csv` — Dataset used for exploratory data analysis and churn prediction.
+- `Project Report.pdf` — Detailed project report covering methodology, exploratory analysis, model evaluation, findings and business recommendations.
+- `requirements.txt` — Python libraries required to run the project.
+- `Images/` — Visualisations illustrating key findings and model results.
