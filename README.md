@@ -61,3 +61,10 @@ These findings support targeted contract-renewal engagement and assessment of su
 - **Targeted Plan Recommendations:** Review high-usage customers without a data plan and offer suitable data plans or bundled packages where these better match their usage needs.
 - **Risk-Based Customer Service:** Flag customers with repeated service interactions and elevated predicted churn risk, then prioritise them for issue resolution, escalation and follow-up.
 - **Risk-Based Resource Allocation:** Rank customers by predicted churn probability and allocate retention resources according to risk, using personalised interventions for high-risk customers, targeted engagement for moderate-risk customers and standard engagement for lower-risk customers.
+
+## Limitations & Next Steps
+
+- **Prediction Threshold:** Optimise the classification threshold based on the business costs of missed churners and unnecessary retention interventions.
+- **Risk Assessment:** Evaluate the model on unseen customer data to assess how well its predictions generalise beyond the development dataset.
+- **Retention Effectiveness:** Conduct A/B testing to determine whether the proposed retention strategies actually reduce churn.
+- **Model Monitoring:** Monitor model performance and retrain periodically as customer behaviour and churn patterns change.
