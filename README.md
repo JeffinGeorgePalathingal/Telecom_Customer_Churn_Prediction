@@ -54,3 +54,10 @@ Daytime usage, monthly charges and customer-service interactions were the three 
 Higher daytime usage was generally associated with a greater concentration of elevated churn-risk predictions. However, customers with similar usage levels could receive different predictions, indicating that churn risk depends on multiple customer characteristics.
 
 These findings support targeted contract-renewal engagement and assessment of suitable data plans for high-usage customers.
+
+## Business Recommendations
+
+- **Contract Renewal:** Contact customers approaching a contract renewal to discuss their usage needs and offer suitable renewal options before their contract expires.
+- **Targeted Plan Recommendations:** Review high-usage customers without a data plan and offer suitable data plans or bundled packages where these better match their usage needs.
+- **Risk-Based Customer Service:** Flag customers with repeated service interactions and elevated predicted churn risk, then prioritise them for issue resolution, escalation and follow-up.
+- **Risk-Based Resource Allocation:** Rank customers by predicted churn probability and allocate retention resources according to risk, using personalised interventions for high-risk customers, targeted engagement for moderate-risk customers and standard engagement for lower-risk customers.
